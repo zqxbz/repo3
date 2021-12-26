@@ -1,0 +1,8 @@
+??????????????????
+{country=14, regStatus=14, gmtModified=14, regLocationCity=14, modifiedUser=14, regCapital=14, mail=14, gmtCreated=14, sourceSystem=14, staffNumRange=14, categoryBig=14, groupOneid=14, legalPersonName=14, regNumber=14, regLocationProvince=14, modifiedSystem=14, telNum=14, id=14, custOrgType=14, incorporationDate=14, orgNumber=14, actualCapital=14, custNo=14, custOneid=14, companyType=14, dataVersion=14, taxPayerType=14, isDelete=14, businessScope=14, taxNumber=14, regLocation=14, custName=14, custEngName=14, trade=14, custType=14, createUser=14, category=14, uniSocialCreditCode=14}
+
+
+
+??????????????????CustEnterpriseInfo
+
+(custOneId=null, custNo=14, custName=14, custEngName=14, uniSocialCreditCode=14, groupOneId=null, trade=14, custType=14, custOrgType=14, incorporationDate=null, regCapital=14, actualCapital=14, regNumber=14, orgNumber=14, regStatus=14, staffNumRange=14, legalPersonName=14, regLocationProvince=14, regLocationCity=14, regLocation=14, businessScope=14, country=14, telNum=14, taxPayerType=14, mailbox=null, taxNumber=14, category=14, categoryBig=14, companytype=0, sourceSystem=14, modifiedSystem=14, createUser=14, gmtCreated=null, modifiedUser=14, gmtModified=null, isDelete=false)
